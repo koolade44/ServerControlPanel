@@ -10,3 +10,7 @@ A PowerShell GUI for controlling Minecraft servers hosted on your machine
 
 ## NOTE: It is reccommended that you update the max RAM bofore running anything but vanilla
 to do this open ServerConfig.txt and change `Max-RAM=1G` you can update this number to any number as well as change the G to an M for millibytes **you must have either G (Gigabytes) or M (Millibytes) after the number**
+
+It is recomended to check how much ram your machine has first to do that open task manger via `ctrl + shift + esc` then hit more details and select performance from the list of tabs at the top, then select ram and it will tell you at the top how much ram your pc has.
+
+IF YOU PLAN TO PLAY ON THE MACHINE AND RUN THE SERVER AT THE SAME TIME MAK SURE YOUR MAX RAM IS NO MORE THAN HALF OF YOUR SYSTEM MEMORY
