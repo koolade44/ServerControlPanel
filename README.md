@@ -9,4 +9,4 @@ A PowerShell GUI for controlling Minecraft servers hosted on your machine
 
 
 ## NOTE: It is reccommended that you update the max RAM bofore running anything but vanilla
-to do this open ServerConfig.txt and chang `Max-RAM=1G` you can update this number to any number as well as change the G to an M for millibytes **you ,ust have eather G (Gigabytes) or M (Millibytes) after the number**
+to do this open ServerConfig.txt and chang `Max-RAM=1G` you can update this number to any number as well as change the G to an M for millibytes **you must have either G (Gigabytes) or M (Millibytes) after the number**
