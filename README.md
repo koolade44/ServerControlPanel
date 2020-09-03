@@ -13,4 +13,4 @@ to do this open ServerConfig.txt and change `Max-RAM=1G` you can update this num
 
 It is recomended to check how much ram your machine has first to do that open task manger via `ctrl + shift + esc` then hit more details and select performance from the list of tabs at the top, then select ram and it will tell you at the top how much ram your pc has.
 
-IF YOU PLAN TO PLAY ON THE MACHINE AND RUN THE SERVER AT THE SAME TIME MAK SURE YOUR MAX RAM IS NO MORE THAN HALF OF YOUR SYSTEM MEMORY
+IF YOU PLAN TO PLAY ON THE MACHINE AND RUN THE SERVER AT THE SAME TIME MAKE SURE YOUR MAX RAM IS NO MORE THAN HALF OF YOUR SYSTEM MEMORY
