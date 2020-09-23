@@ -23,10 +23,10 @@ IF YOU PLAN TO PLAY ON THE MACHINE AND RUN THE SERVER AT THE SAME TIME MAKE SURE
 
 ## Change Log
 version 2020.0.1 9/2/2020: 
-  Initial release
+Initial release
 
 version 2020.0.2 9/23/202: 
-  Server files are now stored in ServerFiles Folder 
-  Added icon
-  Settings now save in Settings.txt
-  You will now be asked to update properties boefore starting
+Server files are now stored in ServerFiles Folder 
+Added icon
+Settings now save in Settings.txt
+You will now be asked to update properties boefore starting
