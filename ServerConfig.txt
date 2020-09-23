@@ -1,3 +1,0 @@
-Min-RAM=1G
-Max-RAM=1G
-Server-Jar-File=server.jar
