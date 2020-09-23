@@ -1,6 +1,11 @@
 # ServerControlPanel
 A PowerShell GUI for controlling Minecraft servers hosted on your machine
 
+## Downloading
+1. select the dropdown menu in the top left that says 'master'
+2. select the latest version (current 2020.0.2)
+3. select 'code' in the top right and choose your preferred method of download
+
 ### How to use
 1. download a copy of the **server** version of the minecraft jar you would like to use (you can find vanilla versions here https://mcversions.net/)
 2. Put the jar file in the **ServerFiles** folder
